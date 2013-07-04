@@ -1,0 +1,57 @@
+body{
+	margin:0px;
+	background-color:white;
+}
+
+span.ethna-error{
+	font-weight:bold;
+	color:red;
+}
+
+.info{
+	font-weight:bold;
+	color:blue;
+}
+
+.warn{
+	font-weight:bold;
+	color:red;
+}
+
+.comment{
+	text-align:left;
+}
+
+div#header{
+	margin:5px;
+	text-align:left;
+}
+
+div#main{
+	text-align:center;
+}
+div#main h1{
+	margin:5px;
+	font-size: 24px;
+	font-weight:bold;
+}
+div#main h2{
+	margin:5px;
+	font-size: 13px;
+	font-weight:bold;
+}
+
+div#block{
+	display: -moz-inline-box;
+	display: inline-block;
+	/display: inline;
+	/zoom: 1;
+}
+div#block pre{
+	text-align:left;
+}
+
+div#footer{
+	margin:5px;
+	text-align:right;
+}

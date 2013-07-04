@@ -1,0 +1,5 @@
+[project]
+ethna_version = 2.5.0
+controller_file = "app/Formmail_Controller.php"
+controller_class = "Formmail_Controller"
+author="remix.asia"

@@ -1,0 +1,64 @@
+@charset "UTF-8";
+
+/* 初期化 */
+body {
+	font-size: 13px;
+	*font-size: small;
+	*font: x-small;
+	font-family: "Hiragino Kaku Gothic Pro","ヒラギノ角ゴ Pro W3","メイリオ",Meiryo,"ＭＳ Ｐゴシック",Osaka,sans-serif;
+}
+
+html>/**/body {font-size /*\**/: small\9;}/* ie8 */
+
+table {
+	font-size: inherit;
+	font: 100%;
+	border-collapse:collapse;
+	border-spacing:0;
+}
+
+h1,h2,h3,h4,h5,h6,
+p,ul,ol,dl,dt,dd,li,table,th,td,
+form,textarea,input,select,option,address,pre,
+strong,em{
+	margin:0;
+	padding:0;
+	font-size:100%;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none;
+}
+
+h1 img,h2 img,h3 img,h4 img,h5 img,h6 img,td img{
+	margin: 0px;
+	padding: 0px;
+	font-size:0;
+	line-height:0;
+}
+
+strong {
+	font-weight:bold;
+}
+
+img {
+	border:none;
+}
+
+th,td {
+	vertical-align:top;
+	text-align:left;
+}
+
+/* font-sizeを指定 */
+p,th,
+li,dt,dd,pre,
+select,textarea,label{
+	font-size:93%;
+	line-height:1.67;
+}
+
+input{
+	line-height:1.2;
+}
+
+
