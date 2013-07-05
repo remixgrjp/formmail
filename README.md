@@ -159,7 +159,7 @@
 ### ■送金方法
 	　寄付していただける場合、お振込先銀行口座を返信いたしますので
 
-		[http://www.remix.asia/service/formmail/](http://www.remix.asia/service/formmail/)
+		http://www.remix.asia/service/formmail/
 
 	より、ご連絡ください。
 
