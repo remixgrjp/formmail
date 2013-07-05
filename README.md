@@ -167,8 +167,9 @@
 	制限はありません。利用者の責任で設置・運用お願いいたします。
 
 ### ■連絡先
-	http+formmail@remix.asia
+	http+formmail＠ＲＥＭＩＸ．ＡＳＩＡ
 	ＲＥＭＩＸ
+	http://www.vector.co.jp/vpack/browse/person/an044540.html
 
 ### ■変更履歴
 	2012-07-21	Version 1.0 初版リリース
