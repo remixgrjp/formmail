@@ -87,7 +87,7 @@ class Formmail_Action_Send extends Formmail_ActionClass
 	*/
 	function perform()
 	{
-		$mailSender =& new Ethna_MailSender( $this->backend );
+		$mailSender = new Ethna_MailSender( $this->backend );
 		$mailSender->send(
 			$this->config->get('EMAIL')
 		,	'Mail.tpl'
